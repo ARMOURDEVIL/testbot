@@ -1,0 +1,52 @@
+{
+  "responses": [
+    {
+      "keywords": ["hello", "hi"],
+      "response": "Good day! I am a chatbot that can help you with reservations. How can I assist you today?"
+    },
+    {
+      "keywords": ["book", "reserve"],
+      "response": "Which day and time would you like to book your reservation?"
+    },
+    {
+      "keywords": ["cancel", "remove"],
+      "response": "Please provide the reservation ID you would like to cancel."
+    },
+    {
+      "keywords": ["thanks", "thank you"],
+      "response": "You're welcome! If you need further assistance, feel free to ask."
+    },
+    {
+      "keywords": ["menu", "dishes", "food"],
+      "response": "You can view our menu on our website. Do you have any specific dish in mind?"
+    },
+    {
+      "keywords": ["hours", "open", "close", "opening", "closing"],
+      "response": "Our restaurant is open from 10 AM to 10 PM from Monday to Friday, and from 9 AM to 11 PM on weekends."
+    },
+    {
+      "keywords": ["location", "address", "directions"],
+      "response": "We are located at 1234 Elm Street, Springfield. Would you like directions?"
+    },
+    {
+      "keywords": ["specials", "deals", "offers"],
+      "response": "Today's specials include a 20% discount on all appetizers and a complimentary dessert with every entree."
+    },
+    {
+      "keywords": ["events", "party", "catering"],
+      "response": "We offer catering services and can host private events. Please provide more details about your event."
+    },
+    {
+      "keywords": ["contact", "phone", "email"],
+      "response": "You can contact us at (123) 456-7890 or email us at info@restaurant.com."
+    },
+    {
+      "keywords": ["feedback", "complaint", "review"],
+      "response": "We value your feedback. Please provide details about your experience."
+    },
+    {
+      "keywords": ["parking", "valet"],
+      "response": "We offer complimentary valet parking for our guests."
+    }
+  ]
+}
